@@ -24,26 +24,27 @@ O objetivo destes trabalhos é desenvolver habilidades em:
 
 ## 👨‍🎓 Exercícios incluídos
 
-### 1. Sistema de alunos
+### 1. Sistema de temperatud
+-digita todas as temperatura de cada dia da semna
+-calcula a media da temperatura
+-mostra que dia teve maior grau 
+
+### 2. Sistema de alunos
 - Registo de nomes e médias
 - Lista de aprovados (>=10)
 - Cálculo de percentagem de aprovação
 - Menu de opções
 
-### 2. Sistema de stock de loja
+### 3. Sistema de stock de loja
 - Vetores paralelos (código e quantidade)
 - Pesquisa por código
 - Aviso de “Stock Crítico” (<5 unidades)
-
-### 3. Gestão de notas (15 alunos)
-- Adição dinâmica de alunos
-- Lista de aprovados
-- Percentagem de aprovação
-
+- 
 ### 4. Sistema de atletas
 - Ordenação por tempo (do mais rápido ao mais lento)
 - Troca de nomes e tempos corretamente
 - Validação de dados (tempo não pode ser negativo)
+- 
 ### 6. Supermercado
 -armazena nome do produto 
 -armazena preço do produto
